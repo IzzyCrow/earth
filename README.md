@@ -120,6 +120,3 @@ inspiration
 
 The awesome [hint.fm wind map](http://hint.fm/wind/) and [D3.js visualization library](http://d3js.org) provided
 the main inspiration for this project.
-
-
---test push
